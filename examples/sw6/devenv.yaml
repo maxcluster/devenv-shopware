@@ -3,7 +3,7 @@ imports:
   - kellerkinder
 inputs:
   kellerkinder:
-    url: github:kellerkinderDE/devenv-shopware?ref=v2.2.0
+    url: github:maxcluster/devenv-shopware
     flake: false
   froshpkgs:
     url: github:FriendsOfShopware/nur-packages
